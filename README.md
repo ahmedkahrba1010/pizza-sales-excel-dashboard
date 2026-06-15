@@ -5,6 +5,8 @@ An interactive Excel sales dashboard analyzing pizza order data. Features dynami
 ---
 
 ## 📊 Dashboard Overview
+<img width="1320" height="529" alt="meddoo" src="https://github.com/user-attachments/assets/fa9915b5-3983-43e4-8fcb-edf9c0fa4263" />
+
 
 This interactive Excel dashboard provides an end-to-end visual analysis of pizza sales performance, order volumes, and consumer behavior trends. Designed with dynamic filtering, it allows stakeholders to quickly isolate key metrics by size, category, day, and date ranges.
 
